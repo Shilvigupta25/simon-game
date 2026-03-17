@@ -20,4 +20,3 @@ A simple and interactive Simon Game built using HTML, CSS, and JavaScript.
 4. With each level, the sequence gets longer
 5. If you click the wrong color → Game Over ❌
 
-## 📂 Project Structure
